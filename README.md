@@ -3,7 +3,7 @@
 
 ⤷ Some of the skills below I am good at. Some I am just getting going on. Learning and Creating are my passions. Before all this crazy programming business I was a line cook.
 
- <a aligh="left" href="https://https://brendanshields.vercel.app" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>  
+ <a aligh="left" href="https://https://brendan-dev.vercel.app" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>  
 
 ⚐ Based in Oregon
 
